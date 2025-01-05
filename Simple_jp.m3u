@@ -2,12 +2,12 @@
 
 #MAIN DTV1 (720p)
 #EXTINF:-1 tvg-id="日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",group-title="DTV1 (720P)",日本テレビ
-https://jpvip999.dinhluong.jp:727/hls/ntv/index.m3u8
+https://epg.pm/stream/134fe3d77a6d7b737f751d12fa7e2181dfdb122deb8eaf0bd93049d2a1daa51c.m3u8
 #EXTINF:-1 tvg-id="ＴＢＳ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="DTV1 (720P)",TBSテレビ
-https://203.162.235.41:16907/
+https://epg.pm/stream/d85545b9358a79c3fd9917870ee0f8c52f494d55b51490e0c1741b79f2ffde2c.m3u8
 #EXTINF:-1 tvg-id="フジテレビ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV1 (720P)",フジテレビ
-http://203.162.235.41:16904/
+https://epg.pm/stream/f2456607f93a8910cb685af1998d72330cbf32e96edc1ac26e0cabee25dd20e7.m3u8
 #EXTINF:-1 tvg-id="テレビ朝日.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="DTV1 (720P)",テレビ朝日
-http://203.162.235.41:16906/
+https://epg.pm/stream/23ddb04a1c973943a74152a292eed8ce7311e8bc8fcd9fc1e9a5cf430e3536f6.m3u8
 #EXTINF:-1 tvg-id="テレビ東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="DTV1 (720P)",テレビ東京
-http://203.162.235.41:16908
+https://epg.pm/stream/c89086f6de1d141e090e8661e7096798f2f508026c1d63d1bda9b8b7b61e5f34.m3u8
