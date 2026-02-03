@@ -1,16 +1,25 @@
 {
-  "spider": "https://raw.githubusercontent.com/gaotianliuyun/0/main/jar/custom_spider.jar",
-  "wallpaper": "https://picsum.photos/1920/1080/?blur=2",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/0/main/jar/custom_spider.jar;md5;4e142e97340b0805c6e88506e7888805",
+  "wallpaper": "https://picsum.photos/1920/1080",
   "sites": [
     {
       "key": "csp_IYF",
       "name": "愛壹帆 (WYAV)",
       "type": 3,
-      "api": "csp_IYF",
+      "api": "csp_Config",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/gaotianliuyun/0/main/js/iyf.js"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/0/main/js/iyf.js"
+    },
+    {
+      "key": "csp_Nangua",
+      "name": "備用：南瓜影視",
+      "type": 3,
+      "api": "csp_Nangua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "rules": [
